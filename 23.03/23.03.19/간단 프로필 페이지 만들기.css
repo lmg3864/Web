@@ -1,0 +1,17 @@
+img {
+    display: block;
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+span {
+    color: blue;
+}
